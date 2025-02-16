@@ -1,5 +1,7 @@
 Resample and Model Evaluation
+
 Overview
+
 This project explores different resampling techniques and machine learning models for credit risk evaluation. The goal is to handle class imbalance in the dataset effectively and determine the best model using evaluation metrics such as F2-score, ROC-AUC, precision, and recall.
 
 Features
